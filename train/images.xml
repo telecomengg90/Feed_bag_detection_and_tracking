@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>images.jpg</filename>
+	<path>H:\python_practice\feed_bag_project\feed\Tensorflow\workspace\images\train\images.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feed_bag</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>18</ymin>
+			<xmax>173</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>
